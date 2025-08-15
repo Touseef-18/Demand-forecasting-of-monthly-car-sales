@@ -17,6 +17,7 @@ Training converges well; Validation loss improves steadily.
 Plot: Predicted vs Actual sales for the test set.
 
 The LSTM captures seasonality and trends in the car sales data.
+
 2. SARIMA Section
 Approach:
 Uses statsmodels SARIMAX model.
